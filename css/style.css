@@ -31,8 +31,7 @@ body {
   width: 100px;
   text-align: right;
   font-size: 120%;
-  font-variant: small-caps;
-  /*font-weight: bold;*/ }
+  font-variant: small-caps; }
 
 #nav li {
   list-style: none;
@@ -72,6 +71,9 @@ body {
   margin-top: -28px;
   left: 50%;
   margin-left: -400px; }
+
+.alias {
+  font-size: 80%; }
 
 a:link {
   color: #DCDCDC;
